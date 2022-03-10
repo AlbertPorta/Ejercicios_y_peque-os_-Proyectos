@@ -1,0 +1,2210 @@
+fileFormatVersion: 2
+guid: 31b3d97bac1a9a94f8dccef876c80076
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 1Player 1 Idle
+    21300002: 2 Player 1 Run 1
+    21300004: 3 Player 1 Run 2
+    21300006: 4 Player 1 Run 3
+    21300008: 5 Player 1 salto 1
+    21300010: 6 Player 1 salto 2
+    21300012: 7 Player 1 caida lenta
+    21300014: 8 Player 1 escala 1
+    21300016: 9 Player 1 escala 2
+    21300018: 10 Player 1 caida rapida
+    21300020: 11 player 1 pegado a muro
+    21300022: 4 Player 1 run 5
+    21300024: 4 Player 1 run 6
+    21300026: 4 Player 1 run 4
+    21300028: 4 Player 1 run 7
+    21300030: NES - Micro Mages Homebrew - Mages 1_15
+    21300032: NES - Micro Mages Homebrew - Mages 1_16
+    21300034: NES - Micro Mages Homebrew - Mages 1_17
+    21300036: NES - Micro Mages Homebrew - Mages 1_18
+    21300038: NES - Micro Mages Homebrew - Mages 1_19
+    21300040: NES - Micro Mages Homebrew - Mages 1_20
+    21300042: NES - Micro Mages Homebrew - Mages 1_21
+    21300044: NES - Micro Mages Homebrew - Mages 1_22
+    21300046: NES - Micro Mages Homebrew - Mages 1_28
+    21300048: NES - Micro Mages Homebrew - Mages 1_29
+    21300050: NES - Micro Mages Homebrew - Mages 1_30
+    21300052: NES - Micro Mages Homebrew - Mages 1_31
+    21300054: NES - Micro Mages Homebrew - Mages 1_32
+    21300056: NES - Micro Mages Homebrew - Mages 1_33
+    21300058: NES - Micro Mages Homebrew - Mages 1_34
+    21300060: NES - Micro Mages Homebrew - Mages 1_35
+    21300062: NES - Micro Mages Homebrew - Mages 1_36
+    21300064: NES - Micro Mages Homebrew - Mages 1_37
+    21300066: NES - Micro Mages Homebrew - Mages 1_38
+    21300068: NES - Micro Mages Homebrew - Mages 1_39
+    21300070: NES - Micro Mages Homebrew - Mages 1_40
+    21300072: NES - Micro Mages Homebrew - Mages 1_41
+    21300074: NES - Micro Mages Homebrew - Mages 1_42
+    21300076: NES - Micro Mages Homebrew - Mages 1_43
+    21300078: NES - Micro Mages Homebrew - Mages 1_44
+    21300080: NES - Micro Mages Homebrew - Mages 1_45
+    21300082: NES - Micro Mages Homebrew - Mages 1_46
+    21300084: NES - Micro Mages Homebrew - Mages 1_47
+    21300086: NES - Micro Mages Homebrew - Mages 1_48
+    21300088: NES - Micro Mages Homebrew - Mages 1_49
+    21300090: NES - Micro Mages Homebrew - Mages 1_50
+    21300092: NES - Micro Mages Homebrew - Mages 1_56
+    21300094: NES - Micro Mages Homebrew - Mages 1_57
+    21300096: NES - Micro Mages Homebrew - Mages 1_58
+    21300098: NES - Micro Mages Homebrew - Mages 1_59
+    21300100: NES - Micro Mages Homebrew - Mages 1_60
+    21300102: NES - Micro Mages Homebrew - Mages 1_61
+    21300104: NES - Micro Mages Homebrew - Mages 1_62
+    21300106: NES - Micro Mages Homebrew - Mages 1_63
+    21300108: NES - Micro Mages Homebrew - Mages 1_64
+    21300110: NES - Micro Mages Homebrew - Mages 1_65
+    21300112: NES - Micro Mages Homebrew - Mages 1_66
+    21300114: NES - Micro Mages Homebrew - Mages 1_67
+    21300116: NES - Micro Mages Homebrew - Mages 1_68
+    21300118: NES - Micro Mages Homebrew - Mages 1_69
+    21300120: NES - Micro Mages Homebrew - Mages 1_70
+    21300122: NES - Micro Mages Homebrew - Mages 1_71
+    21300124: NES - Micro Mages Homebrew - Mages 1_72
+    21300126: NES - Micro Mages Homebrew - Mages 1_73
+    21300128: NES - Micro Mages Homebrew - Mages 1_74
+    21300130: NES - Micro Mages Homebrew - Mages 1_75
+    21300132: NES - Micro Mages Homebrew - Mages 1_76
+    21300134: NES - Micro Mages Homebrew - Mages 1_77
+    21300136: NES - Micro Mages Homebrew - Mages 1_78
+    21300138: NES - Micro Mages Homebrew - Mages 1_84
+    21300140: NES - Micro Mages Homebrew - Mages 1_85
+    21300142: NES - Micro Mages Homebrew - Mages 1_86
+    21300144: NES - Micro Mages Homebrew - Mages 1_87
+    21300146: NES - Micro Mages Homebrew - Mages 1_88
+    21300148: NES - Micro Mages Homebrew - Mages 1_89
+    21300150: NES - Micro Mages Homebrew - Mages 1_90
+    21300152: NES - Micro Mages Homebrew - Mages 1_91
+    21300154: NES - Micro Mages Homebrew - Mages 1_92
+    21300156: NES - Micro Mages Homebrew - Mages 1_93
+    21300158: NES - Micro Mages Homebrew - Mages 1_94
+    21300160: NES - Micro Mages Homebrew - Mages 1_95
+    21300162: NES - Micro Mages Homebrew - Mages 1_96
+    21300164: NES - Micro Mages Homebrew - Mages 1_97
+    21300166: NES - Micro Mages Homebrew - Mages 1_98
+    21300168: NES - Micro Mages Homebrew - Mages 1_99
+    21300170: NES - Micro Mages Homebrew - Mages 1_100
+    21300172: NES - Micro Mages Homebrew - Mages 1_101
+    21300174: NES - Micro Mages Homebrew - Mages 1_102
+    21300176: NES - Micro Mages Homebrew - Mages 1_103
+    21300178: NES - Micro Mages Homebrew - Mages 1_104
+    21300180: NES - Micro Mages Homebrew - Mages 1_105
+    21300182: NES - Micro Mages Homebrew - Mages 1_106
+    21300184: NES - Micro Mages Homebrew - Mages 1_126
+    21300186: NES - Micro Mages Homebrew - Mages 1_127
+    21300188: NES - Micro Mages Homebrew - Mages 1_128
+    21300190: NES - Micro Mages Homebrew - Mages 1_129
+    21300192: Verde DisparoFlipX
+    21300194: AzulDisparoFlipX
+    21300196: NaranjaDisparoFlipX
+    21300198: RosaDisparoFlipX
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1Player 1 Idle
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1802bf79f8194ae42a843af5e8694c7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 Player 1 Run 1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 98
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd90bff29b46c641861817e0010cea1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Player 1 Run 2
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 98
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6187efaf1850fc840adb1bcbc04ef78b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 Player 1 Run 3
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 98
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9a3d5898705e443846f98f0d889d2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Player 1 salto 1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 98
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16506b4c6fd68794fa32945cc6c52279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6 Player 1 salto 2
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 98
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c59fe965135cd439d6b86ad29fa281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Player 1 caida lenta
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 98
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bacc22aeac42a47af1efb93a08f1fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8 Player 1 escala 1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 98
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab69f3c1f54808e4eb69971294994d9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9 Player 1 escala 2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 98
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b81305013c52042844d40354a35565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10 Player 1 caida rapida
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 98
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8277464606b68d34dac89ff6c9fad2c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11 player 1 pegado a muro
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 98
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0f8adf78814e04f8562932e9d891e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 Player 1 run 5
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 98
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91060e7229e2a34fbf3ca3e089c923b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 Player 1 run 6
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 98
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a142bc770d92fcd478d0df1c5db69fa9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 Player 1 run 4
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 98
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3ea77504259b44d9055e496c184e4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 Player 1 run 7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 89
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fc25b9745860f43aea509c6cbf2a3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_15
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 89
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc56fdf9cd85554ab86fded4a547c66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_16
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 89
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8995a513ca02cb243b6f15859546d600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_17
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 89
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc41c26850511dc42a5a4b6e9f2e5791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_18
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 89
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2386f7843c0845439d6fddbb0915a4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_19
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 89
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e414b30e7fe459b47ba67693ab298a37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_20
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 89
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68cbb1cbf5344484283cb8df4afb0e97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_21
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 89
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d839d003dae053641a0a74280c69c124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_22
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 89
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefbc66c4ee414045940aafd7b1b3cab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81912cd8d373db744894f53055b05d40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_29
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5423874aa11b844acc97f53ba9343c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_30
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5a911dde2bfa646ab7b78b0dbf81ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_31
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d47b1dc918c99144959e244c267db3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_32
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e664ccea75e7e814aa36c6828c9ab44d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_33
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebef8db9f447fc4d83e90ccb6b368c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_34
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245ca2db22ff5ca4c8d3a4cc6bb36af4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_35
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7e8bd5f327c4348890dab1525db564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_36
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0c88ab4128a2048941f3290078e68d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_37
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daaccf836055ca54fa0dcc29deef379d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_38
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f257746d35c2c4d8e541d32a2bccf0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_39
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 80
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c11f27c4a7fe3a47837bda992dff9b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_40
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb239c69b9d6bba4d8c01a81fb04a28a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_41
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 80
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d55403c324b3454eb8745fb379f0bac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24589b7ec60df7b4b8dbebd1ff84808b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_43
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 71
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07bf1bf54d56de4e8a8c63a4359b932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_44
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 71
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394dcc393483d844684dc2b9097df61a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_45
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 71
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254741fa1ddad7c42983d70f8f5d27c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_46
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 71
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558ab9edbc2367f4ead9593c8447d5d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_47
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 71
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbcaecdef9b840429cf52cd846bd92c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_48
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 71
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3cff6e143f713f46ae84e9910da16ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_49
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 71
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18493de26ef9b44d9c3c6a3dbacf095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_50
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 71
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc205d1216d76a4a939143d992ffaa5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ce9bf61ebe178489ffa2b643826a77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_57
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 62
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef60b50fa5f64d49a0bb789a0c66f02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_58
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 62
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc69f88ba4bf6c42ae8114e311aaf15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_59
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 62
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6005b7bcb2861479ac10538eb407db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_60
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 62
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c435cdca2a2c3489b91a6423cbf70e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_61
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 62
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12caecc2eaa4e544cbafbd1bc4c6d2e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_62
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 62
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee6e75fac3963c47b8da9c79c217396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_63
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 62
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79abd5fedaa28a94f8a07a3ec7df7324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_64
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 62
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657fbb2041ffd714db53f5da751c246b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_65
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 62
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eaffe81dc701324db84256b0925f8d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_66
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 62
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e71d80e8d70f754faceb96b71af71ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_67
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 62
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9569f3a755a90479014b98a75c2dd7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_68
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 62
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a74eea2bf567a4484802257317e7f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_69
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 62
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7684b8790b7839545bb5566f8a88ee5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 53
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d61e92bd9e92f543a6698c703ddfbf2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_71
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 53
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf315ec5ea4a28c48b8a45dff544038e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_72
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 53
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a136433785a059c42ab3138d6f75422c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_73
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 53
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe99bccf69ab3f4cbdcfb1e903903d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_74
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 53
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1345d96c9df3b74ebb39987a28f83f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_75
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 53
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a818380b82fd7499b8e17e57a98525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_76
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 53
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd0ee15fdd08f2449ee05d24f8984c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_77
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 53
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c6e99105d1c7248b466648d671a325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_78
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 53
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35d9248bc8587b4294139db558c5c3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65e7f1a515177d47a886d5f87c7030a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_85
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 44
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef6d68fc6fa4e54792f4e0d7da4d560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_86
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 44
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4d615572e4ee841aefc4a299b2717e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_87
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 44
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f176e1f8783e59149a7b3e61b80386c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_88
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 44
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58590fee833ae646b7698abf4b81890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_89
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 44
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01dd935f79862cb4eb8315db209078dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_90
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 44
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e90eba95f3532745bca1b7204bda61a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_91
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 44
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c742071f01d9d4f8e826bb6988624e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_92
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 44
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97303318018942c43a670ff2fa5f231d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_93
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 44
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99554d5e7b3a264469cb7f8b08463b14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_94
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 44
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03868840353a184e93c9302cbfe1c15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_95
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 44
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2b25f008292be4583ae4be36cc9f2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_96
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 44
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658fb56902084fa4d9d935176cba36fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_97
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 44
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca7e14ee40e0c0478061a0c075702dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfe167545333db4b8326faf3045936e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_99
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 35
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34988e822726fbc4390afc06514b8105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_100
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 35
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965ba9716cf7bad4b846f1c60a8363af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_101
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 35
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95566c8b756b974fad0ffc52c66ba5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_102
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 35
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc123d3bacf7e74b9258eb074adcf23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_103
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 35
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5df87aa95f9c7469b5509a8eeebccc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_104
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 35
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc9381b47c3a554aa1ae90a77cd43c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_105
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 35
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b1c58504f585044be56a10d87f36f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_106
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 35
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c30c46d6a485241a8938fa176fd977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afeaea7e46b0ba4f8be4a8985840be0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_127
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 17
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd4fbe4ab801f749bb377dddeea86f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_128
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 17
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2f84f26917c9a41a5cefdb326eb32c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Micro Mages Homebrew - Mages 1_129
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 17
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdee3551987437642a7cd7b59e81373e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Verde DisparoFlipX
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 35
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a760626815a2a524f8be50d5ff3211ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AzulDisparoFlipX
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 53
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5dc080473dfc294395985bb8a254a28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaranjaDisparoFlipX
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 71
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def57373fff232647a4245f7ab2586c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RosaDisparoFlipX
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 89
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1292fe9b95241e64a839c212bb5e1a0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e5299e885b60061499c5e038ab7d2469
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
